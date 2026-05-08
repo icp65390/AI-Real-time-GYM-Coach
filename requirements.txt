@@ -7,4 +7,5 @@ groq
 gtts
 python-dotenv
 tornado
+libffi7
 
