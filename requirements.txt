@@ -8,4 +8,4 @@ gtts
 python-dotenv
 tornado
 libffi7
-
+libglib2.0-0
